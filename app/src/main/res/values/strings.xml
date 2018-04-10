@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">actionbar-menu</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair</string>
+    <string name="sobre_clicado">Sobre foi clicado</string>
+    <string name="outro_item">Outro item</string>
+    <string name="eu_sou_um_subtitulo">Eu sou um subtitulo</string>
+</resources>
